@@ -1,9 +1,21 @@
 # Project: Loopy Cookies
 
-### A Retro Game
+### A Retro Game (and Game Engine)
 
-- A front-end game that runs in the browser - move around with your keyboard to win mini games and escape the cookie monster!
-- Built with JavaScript, HTML, CSS and Jest
+- A front-end game and game engine that runs in the browser
+- Move around with your keyboard to win mini games and escape the cookie monster!
+- A challenging project built in 2 weeks as a team of 3 without pre-written game engine libraries/frameworks
+- JavaScript, HTML, CSS and Jest
+- Play it here! [Loopy Cookies](https://loopy-cookies.herokuapp.com/)
+
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</div>
+
+<br>
 
 ![image](img/game-1.png)
 
