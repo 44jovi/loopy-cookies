@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
+https://user-images.githubusercontent.com/109252621/212774239-c0401f48-0ec7-43d0-8a0a-6a78898a1ded.mp4
+
 <br>
 
 ![image](img/game-1.png)
